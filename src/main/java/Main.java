@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Post person = new Post();
         person.name = "Ivan";
         person.passport = "4444 № 44444444";
